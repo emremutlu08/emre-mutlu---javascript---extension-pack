@@ -1,0 +1,33 @@
+{
+  "name": "emre-mutlu---javascript---extension-pack",
+  "displayName": "Emre MUTLU - Javascript - Extension Pack",
+  "description": "Useful Javascript Packages",
+  "version": "0.0.1",
+  "publisher": "Emre MUTLU",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "mikestead.dotenv",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "GitHub.copilot",
+    "eamodio.gitlens",
+    "wix.vscode-import-cost",
+    "PKief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "uyiosa-enabulele.reopenclosedtab",
+    "wayou.vscode-todo-highlight",
+    "Gruntfuggly.todo-tree",
+    "streetsidesoftware.code-spell-checker-turkish"
+  ]
+}
