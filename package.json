@@ -2,7 +2,7 @@
   "name": "emre-mutlu---javascript---extension-pack",
   "displayName": "Emre MUTLU - Javascript - Extension Pack",
   "description": "Useful Javascript Packages",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "publisher": "EmreMUTLU",
   "repository": {
     "type": "git",
@@ -32,6 +32,14 @@
     "uyiosa-enabulele.reopenclosedtab",
     "wayou.vscode-todo-highlight",
     "Gruntfuggly.todo-tree",
-    "streetsidesoftware.code-spell-checker-turkish"
+    "streetsidesoftware.code-spell-checker-turkish",
+    "softwaredotcom.swdc-vscode",
+    "kisstkondoros.vscode-codemetrics",
+    "pranaygp.vscode-css-peek",
+    "DeepScan.vscode-deepscan",
+    "usernamehw.errorlens",
+    "vincaslt.highlight-matching-tag",
+    "SimonSiefke.svg-preview",
+    "Stepsize.tech-debt-tracker"
   ]
 }
