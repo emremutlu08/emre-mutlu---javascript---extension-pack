@@ -55,6 +55,7 @@
 ### S
 
 - Svg Preview
+- Sort JSON objects
 
 ### T
 
