@@ -5,7 +5,7 @@
   "version": "0.0.26",
   "publisher": "EmreMUTLU",
   "scripts": {
-    "deploy": "vsce publish --yarn"
+    "deploy": "vsce publish"
   },
   "repository": {
     "type": "git",
