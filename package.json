@@ -2,7 +2,7 @@
   "name": "emre-mutlu---javascript---extension-pack",
   "displayName": "Emre MUTLU - Javascript - Extension Pack",
   "description": "Useful Javascript Packages",
-  "version": "0.0.23",
+  "version": "0.0.24",
   "publisher": "EmreMUTLU",
   "repository": {
     "type": "git",
@@ -23,7 +23,6 @@
     "naumovs.color-highlight",
     "mikestead.dotenv",
     "dbaeumer.vscode-eslint",
-    "mhutchie.git-graph",
     "GitHub.copilot",
     "eamodio.gitlens",
     "wix.vscode-import-cost",
@@ -33,14 +32,12 @@
     "wayou.vscode-todo-highlight",
     "Gruntfuggly.todo-tree",
     "streetsidesoftware.code-spell-checker-turkish",
-    "softwaredotcom.swdc-vscode",
     "kisstkondoros.vscode-codemetrics",
     "pranaygp.vscode-css-peek",
-    "DeepScan.vscode-deepscan",
     "usernamehw.errorlens",
     "vincaslt.highlight-matching-tag",
     "SimonSiefke.svg-preview",
-    "Stepsize.tech-debt-tracker",
+    "natqe.reload",
     "richie5um2.vscode-sort-json"
   ]
 }

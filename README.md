@@ -15,24 +15,21 @@
 ### C
 
 - Code Spell Checker
-- Color Highlight
-- Code Time
 - CodeMetrics
+- Color Highlight
 - CSS Peek
 
 ### D
 
 - DotENV
-- DeepScan
 
 ### E
 
-- ESLint
 - Error Lens
+- ESLint
 
 ### G
 
-- Git Graph
 - GitHub Copilot
 - GitLens — Git supercharged
 
@@ -50,6 +47,7 @@
 
 ### R
 
+- Reload
 - Reopen Closed Tab
 
 ### S
@@ -61,8 +59,7 @@
 
 - TODO Highlight
 - Todo Tree
-- Turkish - Code Spell Checker
-- Tech Debt Metrics
+- Turkish - Code Spell Checker (Note: You can add your own language's code spell checker)
 
 ## Here is my Prettier and Eslint settings:
 
