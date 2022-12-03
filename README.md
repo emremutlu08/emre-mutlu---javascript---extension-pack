@@ -82,6 +82,6 @@ Adding tr to the cSpell.language setting, will enable the Turkish dictionary. Ex
 
 ## Emre MUTLU
 
-https://www.linkedin.com/in/emremutlu8/
+https://www.linkedin.com/in/emremutlujs/
 
 **Enjoy!**
