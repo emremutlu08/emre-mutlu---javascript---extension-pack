@@ -4,6 +4,10 @@ All notable changes to the "emre-mutlu---javascript---extension-pack" extension 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.26] - 2022-12-03
+
+New script added!
+
 ## [0.0.25] - 2022-12-03
 
 _Tiny readme change!_
