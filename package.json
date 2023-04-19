@@ -1,8 +1,9 @@
 {
   "name": "emre-mutlu---javascript---extension-pack",
-  "displayName": "Emre MUTLU - Javascript - Extension Pack",
-  "description": "Useful Javascript Packages",
-  "version": "0.0.28",
+  "displayName": "JavaScript Productivity Pack - Emre MUTLU - @emremutlujs",
+  "description": "Boost your productivity and streamline your JavaScript development workflow with the JavaScript Productivity Pack by Emre MUTLU. This comprehensive extension pack for Visual Studio Code includes a suite of powerful tools and features to help you write better code faster.",
+  "icon": "assets/images/JavaScript-Productivity-Pack.png",
+  "version": "0.0.30",
   "publisher": "EmreMUTLU",
   "scripts": {
     "deploy": "vsce publish"
@@ -23,23 +24,23 @@
     "formulahendry.auto-rename-tag",
     "aaron-bond.better-comments",
     "streetsidesoftware.code-spell-checker",
+    "kisstkondoros.vscode-codemetrics",
     "naumovs.color-highlight",
+    "pranaygp.vscode-css-peek",
     "mikestead.dotenv",
+    "usernamehw.errorlens",
     "dbaeumer.vscode-eslint",
     "GitHub.copilot",
     "eamodio.gitlens",
+    "vincaslt.highlight-matching-tag",
     "wix.vscode-import-cost",
     "PKief.material-icon-theme",
     "esbenp.prettier-vscode",
-    "uyiosa-enabulele.reopenclosedtab",
-    "wayou.vscode-todo-highlight",
-    "streetsidesoftware.code-spell-checker-turkish",
-    "kisstkondoros.vscode-codemetrics",
-    "pranaygp.vscode-css-peek",
-    "usernamehw.errorlens",
-    "vincaslt.highlight-matching-tag",
-    "SimonSiefke.svg-preview",
     "natqe.reload",
-    "richie5um2.vscode-sort-json"
+    "uyiosa-enabulele.reopenclosedtab",
+    "SimonSiefke.svg-preview",
+    "richie5um2.vscode-sort-json",
+    "wayou.vscode-todo-highlight",
+    "streetsidesoftware.code-spell-checker-turkish"
   ]
 }

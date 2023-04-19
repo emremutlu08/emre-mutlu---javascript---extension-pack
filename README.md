@@ -33,6 +33,10 @@
 - **GitHub Copilot** - allows you to easily collaborate with other developers on GitHub
 - **GitLens — Git supercharged** - provides powerful features for working with Git within VSCode
 
+### H
+
+- **Highlight Matching Tag** - highlights matching opening and/or closing tags.
+
 ### I
 
 - **Import Cost** - allows you to quickly see the size of the external packages that you are importing into your code
